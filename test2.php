@@ -12,7 +12,7 @@ $rollingCurl = new \RollingCurl\RollingCurl();
 
 $i =0;
 
-$content = file('test.txt');
+$content = file('set_base_here.txt');
 
 $plugin = "/index.php?route=module/mega_filter/results&mfp='";
 
